@@ -4,7 +4,7 @@
 -    Here I share what I learn about image analysis: https://claudiasc89.github.io/imganalysis3/ 
 - 💞️ I’m looking to collaborate on microscopy image analysis exciting projects! 🔬
 - 📫 How to reach me 📧 claudia.salat.canela@gmail.com 
-- 😄 Pronouns: She / Her
+
 
 
 <!---
